@@ -7,9 +7,9 @@ student assignments.
 
 Names that would not work well as identifiers--multi-word
 names and names with punctuation--have been stricken.  On
-the other hand, no effort has been made to expurgate these
-lists by content, so watch for potentially inappropriate
-names (e.g. Hagg, Loon, Aholehole) when using them.
+the other hand, almost no effort has been made to expurgate
+these lists by content, so watch for potentially
+inappropriate names (e.g. Loon) when using them.
 
 * *cities.txt* (183) -- Names of Oregon cities, from Wikipedia.
 
@@ -18,7 +18,7 @@ names (e.g. Hagg, Loon, Aholehole) when using them.
 * *elements.txt* (92) -- Names of the first 92 chemical
   elements, from Wikipedia.
 
-* *fish.txt* (510) -- Common names of fish, from Wikipedia.
+* *fish.txt* (508) -- Common names of fish, from Wikipedia.
 
 * *lakes.txt* (83) -- Names of Oregon lakes, from
   Wikipedia.  This list includes only names that normally
