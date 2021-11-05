@@ -1,4 +1,3 @@
-Aholehole
 Albacore
 Alewife
 Alfonsino
@@ -207,7 +206,6 @@ Jackfish
 Javelin
 Jawfish
 Jewelfish
-Jewfish
 Kahawai
 Kaluga
 Kanyu
